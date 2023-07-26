@@ -19,7 +19,11 @@
     ```
 2. Start the frontend development server:
     ```bash
-    npm run dev
+    npm start
+    ```
+3. Start the backend development server:
+    ```bash
+    npm start
     ```
 ## License
 This project is licensed under the [MIT License](link-to-license-file).
