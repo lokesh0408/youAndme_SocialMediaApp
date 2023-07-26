@@ -1,13 +1,5 @@
 # youAndme_SocialMediaApp
 
-npm install [ Frontend ]
-npm install [ backend]
-add mysql connection detail 
-
-npm start [ server]
-npm run dev [ Frontend ]
-Brief description of your project.
-
 ## Installation
 
 1. Clone the repository.
